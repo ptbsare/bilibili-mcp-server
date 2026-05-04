@@ -134,5 +134,8 @@ def get_video_danmaku(bv_id):
     return content
 
 
-if __name__ == "__main__":
+def main():
     mcp.run(transport='stdio')
+
+if __name__ == "__main__":
+    main()
