@@ -10,4 +10,4 @@ dependencies = [
     "requests>=2.32.3",
 ]
 [project.scripts]
-bilibili = "bilibili:mcp.run"
+bilibili = "bilibili:main"
